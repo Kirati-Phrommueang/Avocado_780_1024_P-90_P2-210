@@ -1,6 +1,0 @@
-train: ../Users/kiratiphrommueang/Downloads/LE401/Avocado_780_1024_P-90_P2-210/train/images/
-val: .../Users/kiratiphrommueang/Downloads/LE401/Avocado_780_1024_P-90_P2-210/train/images/
-# number of classes
-nc: 3
-# class names
-names: [ 'Level1', 'Level2', 'Level3' ]
